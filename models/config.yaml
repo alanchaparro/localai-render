@@ -1,0 +1,4 @@
+name: qwen3.5
+filename: qwen3.5-9b-q4.gguf
+parameters:
+  model: qwen3
